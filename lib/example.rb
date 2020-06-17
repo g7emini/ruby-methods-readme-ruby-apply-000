@@ -1,6 +1,6 @@
 # Use this space to code along with the readme
 
-def say_hello
+def greeting
   phrase = "Hello World!"
   puts phrase
   puts phrase
